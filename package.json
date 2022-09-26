@@ -1,0 +1,22 @@
+{
+  "name": "npm-package-for-security-test",
+  "version": "1.0.0",
+  "description": "test package",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victorstassun/npm-package-for-security-test.git"
+  },
+  "keywords": [
+    "testpackageforsecurityexperiences"
+  ],
+  "author": "1sstas <victorstassun@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/victorstassun/npm-package-for-security-test/issues"
+  },
+  "homepage": "https://github.com/victorstassun/npm-package-for-security-test#readme"
+}
